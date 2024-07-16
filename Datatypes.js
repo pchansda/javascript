@@ -8,7 +8,6 @@ console.log(3
 
 console.log("Premchand Hansda")
 
-
 let name = "Premchand Hansda"
 let age = 18
 let isLoggedIn = false
